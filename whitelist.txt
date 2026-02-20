@@ -1,5 +1,0 @@
-# Zephyrus Whitelist
-enabled=true
-
-Dev
-Bowonwit2552
